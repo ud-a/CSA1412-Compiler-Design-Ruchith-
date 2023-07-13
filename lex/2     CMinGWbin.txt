@@ -1,0 +1,2 @@
+2     C:\MinGW\bin
+1     C:\Program Files (x86)\GnuWin32\bin
